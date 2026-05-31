@@ -1,0 +1,31 @@
+# Environment files
+.env
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.txt
+
+# Archives
+*.zip
+
+# Processed output folders
+Processed_CR_dir/
+Austin NoteBooks/Processed_CR_dir/
+Austin NoteBooks/
+KingElvis Update latest code/
+env
+# OS files
+.DS_Store
+Thumbs.db
+W
